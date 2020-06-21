@@ -1,1 +1,1 @@
-let server = require('./scripts/server.js');
+let server = require('./scripts/server');

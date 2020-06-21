@@ -1,0 +1,25 @@
+{
+  "name": "electron-express-app",
+  "version": "1.0.0",
+  "description": "A Electron app with integration of express",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "express",
+    "mysql",
+    "app",
+    "boiler plate"
+  ],
+  "author": "Bricx Carasco",
+  "license": "BC-1.0",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -20,7 +20,7 @@
   "author": "Bricx Carasco",
   "license": "BC-1.0",
   "devDependencies": {
-    "electron": "^9.0.4",
+    "electron": "^9.4.0",
     "electron-packager": "^14.2.1"
   },
   "dependencies": {
